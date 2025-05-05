@@ -53,8 +53,8 @@ Obrigado!
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/rafaelmoreirax/tesla-facts-python.git
-cd tesla-facts-python
+git clone https://github.com/rafaelmoreirax/TeslaFQPython.git
+cd TeslaFQPython
 ```
 
 2. **Execute o programa:**
